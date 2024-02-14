@@ -1,1 +1,5 @@
-# IPC1_Clase31S2024
+# TAREA2 IPC1
+
+| Nombre | Carnet |
+| --------- | ------- |
+| xxxxxxxxx | xxxxxxx |
